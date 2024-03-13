@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/qr-generator/static/css/main.83733922.css",
+    "main.js": "/qr-generator/static/js/main.b929aa21.js",
+    "static/media/dog.jpg": "/qr-generator/static/media/dog.9dc96f2b13f81be82f8e.jpg",
+    "index.html": "/qr-generator/index.html",
+    "main.83733922.css.map": "/qr-generator/static/css/main.83733922.css.map",
+    "main.b929aa21.js.map": "/qr-generator/static/js/main.b929aa21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83733922.css",
+    "static/js/main.b929aa21.js"
+  ]
+}
